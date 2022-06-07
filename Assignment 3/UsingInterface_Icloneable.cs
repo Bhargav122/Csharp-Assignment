@@ -31,13 +31,7 @@ namespace ConsoleApp1
             Console.WriteLine("Element removed from stack:" + pp.Pop());
             Console.WriteLine("Element removed from stack:" + pp.Pop());
 
-            Console.WriteLine("Element removed from stack:" + pp.Pop());
-            Console.WriteLine("Element removed from stack:" + pp.Pop());
-            Console.WriteLine("Element removed from stack:" + pp.Pop());
-            Console.WriteLine("Element removed from stack:" + pp.Pop());
-            //Console.WriteLine("Element removed from stack:" + pp.Pop());
-
-            //pp.print()
+         
 
         }
     }
